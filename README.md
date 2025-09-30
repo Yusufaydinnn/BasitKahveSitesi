@@ -1,6 +1,6 @@
-Kahve Dünyası - ASP.NET Web Forms Örnek Sitesi
+Kahve Dünyası - HTML ile Örnek Kahve Sitesi
 
-Bu proje, ASP.NET Web Forms kullanılarak sekmeler arasında linkler verilerek hazırlanmış basit bir web sayfasıdır.
+Bu proje, html kullanılarak sekmeler arasında linkler verilerek hazırlanmış basit bir web sayfasıdır.
 Sayfada kahve hakkında temel bilgiler, kahve çeşitleri, kültürü ve etkileri anlatılmaktadır.
 
 📌 İçerik:
